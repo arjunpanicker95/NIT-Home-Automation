@@ -1,0 +1,43 @@
+command,label
+batti bujha,__label__light_off
+balab bujha,__label__light_off
+balab band,__label__light_off
+light band,__label__light_off
+light bujha,__label__light_off
+light off,__label__light_off
+dark,__label__light_off
+off light,__label__light_off
+off light,__label__light_off
+batti bujhaw,__label__light_off
+bulb bujhaiye,__label__light_off
+balab jala,__label__light_on
+batti jala,__label__light_on
+light jala,__label__light_on
+light on,__label__light_on
+light on,__label__light_on
+bulb jala,__label__light_on
+light chalu,__label__light_on
+balab chalu,__label__light_on
+batti jalaw,__label__light_on
+batti jalaiye,__label__light_on
+bulb jalaiye,__label__light_on
+paani garam machiniya chalu,__label__geyser_on
+paani garam machiniya start,__label__geyser_on
+on geyser,__label__geyser_on
+on geyser,__label__geyser_on
+geyser on,__label__geyser_on
+on geyser,__label__geyser_on
+paani garam machine chala,__label__geyser_on
+paani garam machine on,__label__geyser_on
+paani garam machine shuru,__label__geyser_on
+paani garam machine start,__label__geyser_on
+machine chalu paani garam,__label__geyser_on
+paani garam machiniya band,__label__geyser_off
+paani garam machiniya off,__label__geyser_off
+off geyser,__label__geyser_off
+off geyser,__label__geyser_off
+geyser off,__label__geyser_off
+off geyser,__label__geyser_off
+paani garam machine band,__label__geyser_off
+paani garam machine off,__label__geyser_off
+machine band paani garam,__label__geyser_off
